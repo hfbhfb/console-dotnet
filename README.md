@@ -5,7 +5,8 @@
 cd helloworld1
 code .
 
-
+## pdf路径
+D:\books\Csharp图解教程(第4版)
 
 
 ## 基本操作
